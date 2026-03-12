@@ -1,10 +1,21 @@
-<item>
-  <title>Your LinkedIn Post Title or First Line</title>
-  <link>https://www.linkedin.com/feed/update/urn:li:share:7437229712567066624</link>
-  <description><![CDATA[
-    <p>Copy of your post text here...</p>
-    <p><a href="https://www.linkedin.com/feed/update/urn:li:share:7437229712567066624">View on LinkedIn</a></p>
-  ]]></description>
-  <pubDate>Thu, 12 Mar 2026 10:00:00 GMT</pubDate>
-  <guid>https://www.linkedin.com/feed/update/urn:li:share:7437229712567066624</guid>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LinkedIn Posts</title>
+    <link>https://www.linkedin.com</link>
+    <description>Latest LinkedIn Posts</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>LinkedIn Post</title>
+      <link>https://www.linkedin.com/feed/update/urn:li:share:7426937296408727552</link>
+      <description><![CDATA[
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7426937296408727552?collapsed=1" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+      ]]></description>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.linkedin.com/feed/update/urn:li:share:7426937296408727552</guid>
+    </item>
+
+  </channel>
+</rss>
